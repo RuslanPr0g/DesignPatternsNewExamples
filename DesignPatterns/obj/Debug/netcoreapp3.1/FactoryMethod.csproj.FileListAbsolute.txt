@@ -1,0 +1,13 @@
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

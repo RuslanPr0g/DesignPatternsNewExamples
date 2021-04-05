@@ -1,0 +1,13 @@
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatterns\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
