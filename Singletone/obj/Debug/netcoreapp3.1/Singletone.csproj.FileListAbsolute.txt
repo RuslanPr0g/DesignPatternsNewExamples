@@ -10,3 +10,16 @@ C:\Users\ruslan.rudenko\Desktop\DesignPatterns\Singletone\obj\Debug\netcoreapp3.
 C:\Users\ruslan.rudenko\Desktop\DesignPatterns\Singletone\obj\Debug\netcoreapp3.1\Singletone.dll
 C:\Users\ruslan.rudenko\Desktop\DesignPatterns\Singletone\obj\Debug\netcoreapp3.1\Singletone.pdb
 C:\Users\ruslan.rudenko\Desktop\DesignPatterns\Singletone\obj\Debug\netcoreapp3.1\Singletone.genruntimeconfig.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.exe
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.deps.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.dev.json
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\bin\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.csprojAssemblyReference.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfoInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfo.cs
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.csproj.CoreCompileInputs.cache
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\ruslan.rudenko\Desktop\DesignPatternsNewExamples\Singletone\obj\Debug\netcoreapp3.1\Singletone.genruntimeconfig.cache
