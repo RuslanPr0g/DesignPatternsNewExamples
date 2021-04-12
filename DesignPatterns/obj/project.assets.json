@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\DesignPatterns\\Factorymethod.csproj",
-      "projectName": "Factorymethod",
-      "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\DesignPatterns\\Factorymethod.csproj",
+      "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\DesignPatterns\\FactoryMethod.csproj",
+      "projectName": "FactoryMethod",
+      "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\DesignPatterns\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\ruslan.rudenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruslan.rudenko\\AppData\\Roaming\\NuGet\\NuGet.Config",

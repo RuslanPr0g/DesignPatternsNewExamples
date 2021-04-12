@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "njB90VejLSRAw0MbKpScI3f/f8JfZxuxuyoVwXoD1zgIK5HgOIjOTI0nVcDuzFyTQqHCFHfrmGWF6uR5DLjxUQ==",
+  "dgSpecHash": "1P25l7JqBEMVHu+m8ektUwPptz4bkXHnnf+uMEa6YEQs6SGcF9Rh4qzvcl0KLqx8d6EkIj52qrOvyfbiT1fWeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\DesignPatterns\\FactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\DesignPatterns\\FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

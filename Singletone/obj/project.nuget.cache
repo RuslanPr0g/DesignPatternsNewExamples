@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VAMXCsb6IJ1ayi+KFc4gICATmuIsId+4qRF05JZqE7tZQ/B1NxrDtXhZtqgKltvSWLSuMyOoeFP8L5S+LNa8tg==",
+  "dgSpecHash": "fQyjz2OSOEoG/HYRP+Vrl9e1prbcatZShQTWwu5pGgpwvfHU5YlccbEfK3kncMtdzIMTuMvdIOd99QTUUZ2PbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Singletone\\Singletone.csproj",
+  "projectFilePath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Singletone\\Singletone.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

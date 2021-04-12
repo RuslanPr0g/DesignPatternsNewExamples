@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Builder\\Builder.csproj": {}
+    "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Builder\\Builder.csproj": {
+    "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Builder\\Builder.csproj",
+        "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Builder\\Builder.csproj",
+        "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\ruslan.rudenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Builder\\obj\\",
+        "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruslan.rudenko\\AppData\\Roaming\\NuGet\\NuGet.Config",

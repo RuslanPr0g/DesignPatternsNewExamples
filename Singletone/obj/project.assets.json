@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Singletone\\Singletone.csproj",
+      "projectUniqueName": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Singletone\\Singletone.csproj",
       "projectName": "Singletone",
-      "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Singletone\\Singletone.csproj",
+      "projectPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Singletone\\Singletone.csproj",
       "packagesPath": "C:\\Users\\ruslan.rudenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatterns\\Singletone\\obj\\",
+      "outputPath": "C:\\Users\\ruslan.rudenko\\Desktop\\DesignPatternsNewExamples\\Singletone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruslan.rudenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
